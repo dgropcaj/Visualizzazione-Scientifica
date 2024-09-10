@@ -6,7 +6,7 @@ L'analisi include anche un confronto tra i livelli di ansia pre e post pandemia 
 ## Datasets utilizzati 
 • https://www.kaggle.com/datasets/shahzadahmad0402/depression-and-anxiety-data/data  
 • https://www.ethnicity-facts-figures.service.gov.uk/health/wellbeing/well-being-anxiety-yesterday/latest/  
-• https://www.statista.com/statistics/1310875/prevalence-of-anxiety-before-and-after-covid-19-select-oecd-countries/
+• https://www.statista.com/statistics/1310875/prevalence-of-anxiety-before-and-after-covid-19-select-oecd-countries/  
 • https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/measuringnationalwellbeinganxiety
 
 ## Librerie Python utilizzate
