@@ -1,4 +1,4 @@
-# Visualizzazione-Scientifica
+# Visualizzazione scientifica e analisi dei dati sul fenomeno dell'ansia
 Questo progetto, esplora il tema dell'ansia attraverso un'analisi scientifica che prende in considerazione diversi fattori psicologici, sociali e ambientali. L'obiettivo è di comprendere meglio le cause e le implicazioni dell'ansia nelle popolazioni, con un focus sui giovani, gli studenti universitari e vari gruppi etnici.
 
 L'analisi include anche un confronto tra i livelli di ansia pre e post pandemia da COVID-19, evidenziando il suo impatto sulla salute mentale globale.
