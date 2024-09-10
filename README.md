@@ -18,7 +18,8 @@ L'analisi include anche un confronto tra i livelli di ansia pre e post pandemia 
 Il progetto è organizzato in diverse directory:
 
 • **Codice**:  contiene il codice scritto per la manipolazione dei dati e la generazione dei grafici.  
-• **Datasets**: contiene i Datasets utilizzati per la generazione dei grafici.    
+• **Datasets**: contiene i Datasets utilizzati per la generazione dei grafici.  
+• **Grafici**: contiene i grafici ottenuti 
 
 ## Autori
 •  Al Kababji Nadia 21033A  
