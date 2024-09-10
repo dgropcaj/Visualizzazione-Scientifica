@@ -3,8 +3,10 @@ Questo progetto, esplora il tema dell'ansia attraverso un'analisi scientifica ch
 
 L'analisi include anche un confronto tra i livelli di ansia pre e post pandemia da COVID-19, evidenziando il suo impatto sulla salute mentale globale.
 
-## Datasets utilizzati  
-
+## Datasets utilizzati 
+• https://www.kaggle.com/datasets/shahzadahmad0402/depression-and-anxiety-data/data  
+• https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/july2017tojune2018  
+• https://www.ethnicity-facts-figures.service.gov.uk/health/wellbeing/well-being-anxiety-yesterday/latest/
 ## Librerie Python utilizzate
 • [matplotlib](https://matplotlib.org/)   
 • [plotly](https://plotly.com/graphing-libraries/  )  
