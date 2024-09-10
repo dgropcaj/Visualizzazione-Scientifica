@@ -11,7 +11,7 @@ L'analisi include anche un confronto tra i livelli di ansia pre e post pandemia 
 
 ## Librerie Python utilizzate
 • [matplotlib](https://matplotlib.org/)   
-• [plotly](https://plotly.com/graphing-libraries/  )  
+• [pandas](https://pandas.pydata.org)  
 • [seaborn](https://seaborn.pydata.org/  )   
 
 ## Struttura della repository
